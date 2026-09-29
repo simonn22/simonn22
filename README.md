@@ -1,7 +1,12 @@
 # Hi, I'm Simón :smirk_cat:
 
-## [Go to English](#who-am-i)
-## [Ir a Español](#quién-soy)
+## [:uk: Go to English](#who-am-i)
+## [:es: Ir a Español](#quién-soy)
+
+---
+<a href="https://instagram.com/monnchito._" target="_blank">
+  <img src="img/instagram.png" alt="Logo" width="20" /> 
+</a>
 
 ---
 
