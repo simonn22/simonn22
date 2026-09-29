@@ -4,11 +4,6 @@
 ## [:es: Ir a Español](#quién-soy)
 
 ---
-<a href="https://instagram.com/monnchito._" target="_blank">
-  <img src="img/instagram.png" alt="Logo" width="20" /> 
-</a>
-
----
 
 ### Who am I? 
 I'm an IT student, currently working on becoming a Network and System Administrator (ASIR).
